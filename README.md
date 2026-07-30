@@ -23,4 +23,4 @@ Estudante de Sistemas de Informação na FIAP, em formação na área de tecnolo
 - projetohd
 
 ## Contato
-- LinkedIn: (colocar o link depois)
+- LinkedIn: (www.linkedin.com/in/arthur-cardoso-3905703b9)
