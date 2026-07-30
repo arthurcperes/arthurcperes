@@ -1,4 +1,4 @@
-# Olá, eu sou Arthur 👋
+# Olá, eu sou o Arthur 
 
 Estudante de Sistemas de Informação na FIAP, em formação na área de tecnologia.
 
