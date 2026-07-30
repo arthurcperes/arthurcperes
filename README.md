@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Arthur 👋
 
-<!--
-**arthurcperes/arthurcperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na FIAP, em formação na área de tecnologia.
 
-Here are some ideas to get you started:
+## Sobre mim
+- Interesse em desenvolvimento web
+- Aprendendo HTML, CSS, IA generativa e fundamentos de programação
+- Buscando oportunidades de estágio em tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e ferramentas
+- HTML
+- CSS
+- VS Code
+- IntelliJ IDEA
+- Arduino
+- Tinkercad
+- PowerPoint
+- Figma
+- Canva
+
+## Projetos em destaque
+- CHECKPOINT-02
+- projetohd
+
+## Contato
+- LinkedIn: (colocar o link depois)
